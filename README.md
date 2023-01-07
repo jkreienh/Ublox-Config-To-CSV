@@ -1,9 +1,8 @@
 # Ublox-Config-To-CSV
 
 
-1) Use u-center to save the current configuration.
-![image](https://user-images.githubusercontent.com/34135562/211153706-98d0c5e9-6667-4e19-b183-7599e84aed7e.png)
-
+1) Use u-center to save the current configuration "Transfer GNSS->File".
+![image](https://user-images.githubusercontent.com/34135562/211158442-0243a42e-f992-430b-8e85-142f2de5d0ea.png)
 
 2) Select the Ublox Config File (.txt) to view the configuration keys and values.
 ![image](https://user-images.githubusercontent.com/34135562/211153008-d292a638-2177-49dc-a4fc-e5c6b5c634ce.png)
